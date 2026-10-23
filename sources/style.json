@@ -1,0 +1,66 @@
+{
+ "name": "Tad Fane",
+ "slug": "TadFane",
+ "ink": "a",
+ "body": "ດ",
+ "sign_text": "ຕາດຟານ ຣີສອດ / TADFAN RESORT",
+ "notes": "One family from two photos of the same Tad Fane resort sign (studies 06 and 07, pack 26 and 27): extra-heavy rounded Lao with big round counters. Latin follows the sign's separate bold serif (Noto Serif base), not the Lao outline genre.",
+ "labels": {
+  "ຕ": [
+   3
+  ],
+  "າ": [
+   4
+  ],
+  "ດ": [
+   6
+  ],
+  "ຟ": [
+   9
+  ]
+ },
+ "extra_sources": [
+  {
+   "seg": "../s07/seg_a",
+   "body": "ດ",
+   "labels": {
+    "ນ": [
+     5
+    ],
+    "ຣ": [
+     9
+    ],
+    "ີ": [
+     10
+    ],
+    "ສ": [
+     12
+    ],
+    "ອ": [
+     15
+    ],
+    "ດ": [
+     17
+    ]
+   }
+  }
+ ],
+ "bases": {
+  "latin": "latin-serif"
+ },
+ "nib": {
+  "shape": "round"
+ },
+ "per_script": {
+  "latin": {
+   "wght": 800,
+   "recipe": [
+    {
+     "op": "nib",
+     "shape": "round",
+     "w": 16
+    }
+   ]
+  }
+ }
+}
